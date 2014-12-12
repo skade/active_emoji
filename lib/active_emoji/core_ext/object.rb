@@ -4,4 +4,6 @@ class Object
   alias :"#️⃣" hash
   alias 🔬 inspect
   alias 🆔 object_id
+  alias ✉️ send
+  alias 📬❓ respond_to?
 end
